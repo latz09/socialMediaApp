@@ -18,6 +18,10 @@ body {
         @apply bg-cyan-500 text-cyan-100
     }
 
+    .form-inputs {
+        @apply mx-auto text-sm text-gray-900 bg-cyan-200 rounded-lg border-2 border-cyan-400 focus:ring-blue-500 focus:border-blue-500
+    }
+
 
     
 }
